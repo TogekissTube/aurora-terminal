@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Aurora Terminal
+Comment=Una terminal estilo Konsole creada con Qt
+Exec=/usr/bin/aurora-terminal
+Icon=/usr/share/aurora-terminal/icon.png
+Terminal=false
+Type=Application
+Categories=Utility;TerminalEmulator;
